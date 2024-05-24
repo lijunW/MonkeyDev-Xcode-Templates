@@ -72,7 +72,7 @@
 		<key>SharedSettings</key>
 		<dict>
 			<key>ENABLE_USER_SCRIPT_SANDBOXING</key>
-			<false/>
+			<string>NO</string>
 			<key>MonkeyDevTheosPath</key>
 			<string>/opt/theos</string>
 			<key>TARGETED_DEVICE_FAMILY</key>
