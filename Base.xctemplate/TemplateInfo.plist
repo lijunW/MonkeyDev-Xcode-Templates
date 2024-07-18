@@ -19,6 +19,8 @@
 			<string>___PACKAGENAME___</string>
 			<key>SharedSettings</key>
 			<dict>
+				<key>MonkeyDevRootless</key>
+				<string>YES</string>
 				<key>MonkeyDevClearUiCacheOnInstall</key>
 				<string>NO</string>
 				<key>MonkeyDevkillProcessOnInstall</key>
